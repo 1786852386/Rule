@@ -129,3 +129,5 @@ payload:
   - DOMAIN-SUFFIX,cf2.jmsooo.com
   
   - DOMAIN-KEYWORD,emby
+  - DOMAIN-KEYWORD,EMBY
+
