@@ -3,3 +3,4 @@
 payload:
   - PROCESS-NAME,HeavenBurnsRed.exe
   - DOMAIN-SUFFIX,heaven-burns-red.wfs.games
+  - DOMAIN-SUFFIX,heaven-burns-red-assets.akamaized.net
