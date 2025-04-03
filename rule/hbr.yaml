@@ -1,5 +1,3 @@
-# NAME: HBR
-
 payload:
   - PROCESS-NAME,HeavenBurnsRed.exe
   - DOMAIN-SUFFIX,heaven-burns-red.wfs.games
